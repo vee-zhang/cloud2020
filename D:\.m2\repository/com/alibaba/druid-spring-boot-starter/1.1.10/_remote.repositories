@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 16:13:35 CST 2020
+druid-spring-boot-starter-1.1.10.jar>nexus-aliyun=
+druid-spring-boot-starter-1.1.10.jar>alimaven=
+druid-spring-boot-starter-1.1.10.pom>nexus-aliyun=
+druid-spring-boot-starter-1.1.10.pom>alimaven=

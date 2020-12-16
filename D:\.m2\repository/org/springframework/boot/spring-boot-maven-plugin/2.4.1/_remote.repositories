@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 16:13:17 CST 2020
+spring-boot-maven-plugin-2.4.1.jar>nexus-aliyun=
+spring-boot-maven-plugin-2.4.1.jar>alimaven=
+spring-boot-maven-plugin-2.4.1.pom>nexus-aliyun=
+spring-boot-maven-plugin-2.4.1.pom>alimaven=

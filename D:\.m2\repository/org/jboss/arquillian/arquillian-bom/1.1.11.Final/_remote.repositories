@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 16:13:30 CST 2020
+arquillian-bom-1.1.11.Final.pom>nexus-aliyun=
+arquillian-bom-1.1.11.Final.pom>alimaven=

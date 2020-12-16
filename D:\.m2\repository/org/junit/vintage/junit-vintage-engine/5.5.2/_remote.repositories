@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 16:13:52 CST 2020
+junit-vintage-engine-5.5.2.pom>alimaven=
+junit-vintage-engine-5.5.2.jar>nexus-aliyun=
+junit-vintage-engine-5.5.2.pom>nexus-aliyun=
+junit-vintage-engine-5.5.2.jar>alimaven=

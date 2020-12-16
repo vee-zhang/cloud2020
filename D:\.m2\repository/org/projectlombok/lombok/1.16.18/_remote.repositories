@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 16:13:35 CST 2020
+lombok-1.16.18.jar>nexus-aliyun=
+lombok-1.16.18.pom>nexus-aliyun=
+lombok-1.16.18.pom>alimaven=
+lombok-1.16.18.jar>alimaven=

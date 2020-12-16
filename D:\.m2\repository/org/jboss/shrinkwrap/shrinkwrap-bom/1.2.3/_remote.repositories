@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 16:13:30 CST 2020
+shrinkwrap-bom-1.2.3.pom>alimaven=
+shrinkwrap-bom-1.2.3.pom>nexus-aliyun=

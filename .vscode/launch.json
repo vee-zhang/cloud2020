@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PaymentMain8001<cloud-provider-payment8001>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.PaymentMain8001",
+            "projectName": "cloud-provider-payment8001",
+            "args": ""
+        }
+    ]
+}
