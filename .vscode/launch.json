@@ -9,6 +9,26 @@
             "mainClass": "com.atguigu.springcloud.PaymentMain8001",
             "projectName": "cloud-provider-payment8001",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-OrderMain<cloud-consumer-order80>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.OrderMain",
+            "projectName": "cloud-consumer-order80",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-OrderMain80<cloud-consumer-order80>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.OrderMain80",
+            "projectName": "cloud-consumer-order80",
+            "args": ""
         }
     ]
 }
