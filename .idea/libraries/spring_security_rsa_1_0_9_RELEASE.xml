@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-security-rsa-1.0.9.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/D:/.m2/repository/org/springframework/security/spring-security-rsa/1.0.9.RELEASE/spring-security-rsa-1.0.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

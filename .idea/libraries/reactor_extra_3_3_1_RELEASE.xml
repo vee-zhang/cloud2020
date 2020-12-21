@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reactor-extra-3.3.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/D:/.m2/repository/io/projectreactor/addons/reactor-extra/3.3.1.RELEASE/reactor-extra-3.3.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
