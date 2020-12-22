@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 23:47:50 CST 2020
+jackson-dataformat-xml-2.10.1.jar>nexus-aliyun=
+jackson-dataformat-xml-2.10.1.pom>nexus-aliyun=

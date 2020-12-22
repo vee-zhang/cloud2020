@@ -1,7 +1,7 @@
 server:
   port: 8001
 spring:
-  application:
+  application: #入驻注册中心的名字
     name: cloud-payment-service
 
   datasource:

@@ -17,7 +17,12 @@
     <dependency>
       <groupId>com.atguigu.springcloud</groupId>
       <artifactId>cloud-api-commons</artifactId>
-      <scope>${project.version}</scope>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework.cloud</groupId>
+      <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->

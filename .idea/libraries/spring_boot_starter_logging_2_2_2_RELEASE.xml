@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="spring-boot-starter-logging-2.2.2.RELEASE">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/D:/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.2.2.RELEASE/spring-boot-starter-logging-2.2.2.RELEASE.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

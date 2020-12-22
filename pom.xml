@@ -38,7 +38,7 @@
     <log4j.version>1.2.17</log4j.version>
                 
     
-    <lombok.version>1.16.18</lombok.version>
+    <lombok.version>1.18.16</lombok.version>
                 
     
     <mysql.version>5.1.47</mysql.version>
@@ -276,8 +276,10 @@
         
     <module>cloud-consumer-order80</module>
           
-    
     <module>cloud-api-commons</module>
+
+    <module>cloud-eureka-server7001</module>
+    
       
   </modules>
   

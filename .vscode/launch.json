@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EurekaMain7001",
+            "request": "launch",
+            "mainClass": "EurekaMain7001",
+            "projectName": "cloud2020"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-PaymentMain8001<cloud-provider-payment8001>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
@@ -28,6 +35,16 @@
             "console": "internalConsole",
             "mainClass": "com.atguigu.springcloud.OrderMain80",
             "projectName": "cloud-consumer-order80",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EurekaMain7001<cloud-eureka-server7001>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.EurekaMain7001",
+            "projectName": "cloud-eureka-server7001",
             "args": ""
         }
     ]
