@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PaymentMain8004",
+            "request": "launch",
+            "mainClass": "PaymentMain8004",
+            "projectName": "cloud2020"
+        },
+        {
+            "type": "java",
             "name": "Launch EurekaMain7001",
             "request": "launch",
             "mainClass": "EurekaMain7001",
@@ -15,16 +22,6 @@
             "console": "internalConsole",
             "mainClass": "com.atguigu.springcloud.PaymentMain8001",
             "projectName": "cloud-provider-payment8001",
-            "args": ""
-        },
-        {
-            "type": "java",
-            "name": "Spring Boot-OrderMain<cloud-consumer-order80>",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "mainClass": "com.atguigu.springcloud.OrderMain",
-            "projectName": "cloud-consumer-order80",
             "args": ""
         },
         {
@@ -45,6 +42,36 @@
             "console": "internalConsole",
             "mainClass": "com.atguigu.springcloud.EurekaMain7001",
             "projectName": "cloud-eureka-server7001",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PaymentMain8004<cloud-provider-payment8004>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.PaymentMain8004",
+            "projectName": "cloud-provider-payment8004",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "open-feign-OrderMain<cloud-consumer-feign-order80>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.OrderMain80",
+            "projectName": "cloud-consumer-feign-order80",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-OrderFeignMain80<cloud-consumer-feign-order80>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.atguigu.springcloud.OrderFeignMain80",
+            "projectName": "cloud-consumer-feign-order80",
             "args": ""
         }
     ]

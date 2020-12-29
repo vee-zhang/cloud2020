@@ -1,0 +1,6 @@
+server:
+    port: 80
+
+spring:
+  application: #入驻注册中心的名字
+    name: cloud-order-service
